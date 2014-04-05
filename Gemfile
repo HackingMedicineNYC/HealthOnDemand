@@ -32,3 +32,4 @@ end
 gem 'devise'
 gem 'simple_form'
 gem 'pry'
+gem 'haml-rails'
